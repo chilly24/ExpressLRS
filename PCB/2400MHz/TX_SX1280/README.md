@@ -33,3 +33,8 @@ Upload the Gerber file to https://jlcpcb.com/RAT.  Check the price for 5, 10, an
 
 <img src="img/1.jpg" width="30%"> <img src="img/2.jpg" width="30%"> <img src="img/3.jpg" width="30%"> <img src="img/5.jpg" width="30%"> <img src="img/6.jpg" width="30%">
 <img src="img/7.jpg" width="30%"> <img src="img/8.jpg" width="30%">
+### Flash:
+- connect the micro usb port with an USB cable to the computer
+- check if the correct COMPORT is selected
+- connect the antenna to the E28 module and press the BOOT and EN Button when the firmware is trying to be flashed, otherwise you get an upload error
+
